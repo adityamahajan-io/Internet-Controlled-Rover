@@ -1,0 +1,19 @@
+{
+  "name": "internet-controlled-rover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityamahajan-io/Internet-Controlled-Rover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityamahajan-io/Internet-Controlled-Rover/issues"
+  },
+  "homepage": "https://github.com/adityamahajan-io/Internet-Controlled-Rover#readme"
+}
